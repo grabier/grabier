@@ -11,7 +11,7 @@ I am a developer passionate about understanding how things work under the hood. 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Systems** | C, C++, NestJS, Node.js, PostgreSQL, Bash |
+| **Backend & Systems** | C, C++, NestJS, Node.js, SQLite, Bash |
 | **Frontend** | TypeScript, React, Tailwind CSS, HTML5 |
 | **DevOps & Tools** | Docker, Docker Compose, Git, Linux/Unix, Makefiles |
 | **Graphics & Algorithms** | Ray Tracing, 3D Projection, Matrix Math |
