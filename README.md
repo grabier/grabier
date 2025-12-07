@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gabriel Montoro 👋
 ### Software Engineer | Full Stack Developer | 42 Student
 
 > "First solve the problem, then write the code."
@@ -31,17 +31,7 @@ From writing my own `printf` to deploying full-stack apps. Here are my most comp
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="150"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
-* 💼 [LinkedIn](LINK_TO_LINKEDIN)
-* 📧 [Email](mailto:YOUR_EMAIL)
-* 🌐 [Portfolio / Web](LINK_IF_ANY)
+* 💼 [LinkedIn](www.linkedin.com/in/gmontoro)
+* 📧 [Email](mailto:gmontoro.h@gmail.com)
