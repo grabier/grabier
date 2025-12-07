@@ -1,5 +1,5 @@
 # Hi there, I'm Gabriel Montoro 👋
-### Software Engineer | Full Stack Developer | 42 Student
+### Software Engineer | Full Stack Developer in training | 42 Student
 
 > "First solve the problem, then write the code."
 
@@ -27,7 +27,7 @@ From writing my own `printf` to deploying full-stack apps. Here are my most comp
 | **[🏓 ft_transcendence](URL_TO_YOUR_REPO)** | **Full Stack Web** | The final boss. A real-time SPA Pong platform featuring chat, matchmaking, 2FA, and containerized deployment. | `NestJS` `Postgres` `Docker` `Socket.io` `OAuth` |
 | **[🔮 miniRT](https://github.com/grabier/mini-RT)** | **Graphics / C** | A physical **Ray Tracing** engine built from scratch. Simulates light, shadows, reflections, and 3D objects using pure vector math. | `C` `Vector Math` `Ray Tracing` `Optimization` |
 | **[🐚 Minishell](https://github.com/grabier/minishell)** | **Systems / C** | My own version of Bash. Handles process creation, pipes, redirections, and signals by recreating kernel logic. | `C` `Unix Processes` `Signals` `Architecture` |
-| **[🌐 Inception](URL_TO_YOUR_REPO)** | **DevOps** | System administration and virtualization project. Setting up a complete LEMP stack using Docker Compose. | `Docker` `Nginx` `MariaDB` `WordPress` |
+| **[🌐 Inception](https://github.com/grabier/inception)** | **DevOps** | System administration and virtualization project. Setting up a complete LEMP stack using Docker Compose. | `Docker` `Nginx` `MariaDB` `WordPress` |
 
 ---
 
